@@ -1,0 +1,2 @@
+Beim Export eines Modells aus Edge Impulse wird die exportierte Datei so bereitgestellt, dass sie direkt in Projekte eingebunden werden kann. 
+Aufgrund von Lizenzgründen sind die exportierten Dateien jedoch in diesem Repository nicht enthalten.
