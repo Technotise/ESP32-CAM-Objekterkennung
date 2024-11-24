@@ -1,0 +1,2 @@
+Timing: DSP 7 ms, inference 670 ms, anomaly 0 ms
+  club card (0.953125) [ x: 40, y: 40, width: 16, height: 16 ]
