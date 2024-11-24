@@ -1,0 +1,1 @@
+Kann innerhalb ESP-IDF direkt von "Components manager" heruntergeladen werden.
