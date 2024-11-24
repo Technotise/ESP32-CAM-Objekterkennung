@@ -1,0 +1,25 @@
+/* style.css */
+body {
+    background-color: #262524;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+button {
+    background-color: #444;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #555;
+}
+img {
+    border: 1px solid white;
+    border-radius: 5px;
+}
+h1, h2 {
+    color: #f0f0f0;
+}
