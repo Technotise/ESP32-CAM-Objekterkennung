@@ -38,7 +38,7 @@ Ziel ist es, eine energieeffiziente, datenschutzfreundliche und latenzarme Lösu
 
 1. Klone dieses Repository:
    ```bash
-   git clone https://github.com/<Technotise>/esp32-cam-projekt.git
+   git clone https://github.com/Technotise/esp32-cam-projekt.git
    ```
 2. Öffne das Projekt in VSCode mit der ESP-IDF-Erweiterung.
 3. Konfiguriere die Umgebung für und in ESP-IDF.
