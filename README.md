@@ -63,7 +63,7 @@ Dieses Projekt steht unter der [Apache 2.0 Lizenz](LICENSE).
 
 ## Autor
 
-[Moritz Brühl](https://github.com/<Technotise>)
+[Moritz Brühl](https://github.com/Technotise)
 
 ---
 
